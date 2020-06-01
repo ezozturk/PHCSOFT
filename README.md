@@ -1,5 +1,7 @@
 # PHCSOFT
 
+The PHCSOFT is a new scientific software encoded in the GNU C/C++ platform for the determination and visualization of physical height changes using GRACE-based GGMs.
+
 In the computation file, firstly the PHCSOFT program should be compiled with this command:
 
 g++ PHCSOFT.c -o PHCSOFT
